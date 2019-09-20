@@ -479,7 +479,7 @@ ship "Bounder"
 
 ship "Carrier"
 	sprite "ship/carrier/carrier"
-		"frame rate" 7
+		"frame rate" 8
 		"random start frame"
 	thumbnail "thumbnail/carrier"
 	attributes
@@ -762,7 +762,7 @@ ship "Combat Drone"
 
 ship "Cruiser"
 	sprite "ship/cruiser/cruiser"
-		"frame rate" 9
+		"frame rate" 12
 		"random start frame"
 	thumbnail "thumbnail/cruiser"
 	attributes
