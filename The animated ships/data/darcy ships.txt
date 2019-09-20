@@ -41,9 +41,9 @@ ship Flivver "Flivver (Racing)"
 		"nGVF-BB Fuel Cell"
 		"Scram Drive"
 	sprite ship/scutter/scutter
-		"frame rate" 4
+		"frame rate" 7
 		"random start frame"
-		"delay" 12
+		"delay" 21
 		rewind
 
 
@@ -95,7 +95,7 @@ ship "Model 1024"
 		"Triple Plasma Core"
 		Hyperdrive
 	sprite ship/model_1024/model_1024
-		"frame rate" 4
+		"frame rate" 12
 		"random start frame"
 	turret -121 86 "Korath Slicer Turret"
 	turret 54 138 "Korath Disruptor"
@@ -134,9 +134,9 @@ ship "Korath Stalker"
 		"Steering (Asteroid Class)"
 		"Thruster (Asteroid Class)"
 	sprite ship/stalker/stalker
-		"frame rate" 3
+		"frame rate" 5
 		"random start frame"
-		"delay" 6
+		"delay" 10
 		rewind
 
 
