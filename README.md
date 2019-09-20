@@ -1,4 +1,7 @@
 # Animated-ships
+
+Version with less disruptive, slower animations. Non-living ships made looks less organic/making breathing-like motions. Living ships made look even more organic/breathing-like motions ;)
+
 IMPORTANT: 
 Some people had troubles installing the mod since most times the file is unzipped as plugins/the-animated-ships-master/The animated ships; to work correctly it must be just plugins/The animated ships
 

@@ -13,7 +13,8 @@
 ship "Albatross"
 	plural "Albatrosses"
 	sprite "ship/albatross/albatross"
-		"frame time" 4.5
+		"frame rate" 4
+		"delay" 12
 		"random start frame"
 		rewind
 	thumbnail "thumbnail/albatross"
@@ -88,7 +89,8 @@ ship "Albatross"
 ship "Argosy"
 	plural "Argosies"
 	sprite "ship/argosy/argosy"
-		"frame time" 6
+		"frame rate" 3
+		"delay" 4.5
 		"random start frame"
 	thumbnail "thumbnail/argosy"
 	attributes
@@ -148,7 +150,7 @@ ship "Argosy"
 
 ship "Arrow"
 	sprite "ship/arrow/arrow"
-		"frame time" 3.5
+		"frame rate" 7
 		"random start frame"
 	thumbnail "thumbnail/arrow"
 	attributes
@@ -202,7 +204,7 @@ ship "Arrow"
 
 ship "Bactrian"
 	sprite "ship/bactrian/bactrian"
-		"frame time" 5.5
+		"frame rate" 4
 		"random start frame"
 		rewind
 	thumbnail "thumbnail/bactrian"
@@ -275,7 +277,7 @@ ship "Bactrian"
 
 ship "Barb"
 	sprite "ship/barb/barb"
-		"frame time" 4
+		"frame rate" 10
 		"random start frame"
 	thumbnail "thumbnail/barb"
 	attributes
@@ -319,7 +321,7 @@ ship "Barb"
 
 ship "Barb" "Barb (Proton)"
 	sprite "ship/barbp/barbp"
-		"frame time" 4
+		"frame rate" 10
 		"random start frame"
 	thumbnail "thumbnail/barbp"
 	attributes
@@ -361,7 +363,8 @@ ship "Barb" "Barb (Proton)"
 
 ship "Bastion"
 	sprite "ship/bastion/bastion"
-		"frame time" 5.5
+		"frame rate" 5
+		"delay" 10
 		"random start frame"
 	thumbnail "thumbnail/bastion"
 	attributes
@@ -425,7 +428,8 @@ ship "Bastion"
 
 ship "Bounder"
 	sprite "ship/bounder/bounder"
-		"frame time" 4.5
+		"frame rate" 3
+		"delay" 9
 		"random start frame"
 		rewind
 	thumbnail "thumbnail/bounder"
@@ -475,7 +479,7 @@ ship "Bounder"
 
 ship "Carrier"
 	sprite "ship/carrier/carrier"
-		"frame time" 6.5
+		"frame rate" 3
 		"random start frame"
 	thumbnail "thumbnail/carrier"
 	attributes
@@ -558,8 +562,9 @@ ship "Carrier"
 
 ship "Centipede"
 	sprite "ship/hai centipede/hai centipede"
-		"frame time" 5.7
+		"frame rate" 7
 		"random start frame"
+		"delay" 21
 		rewind
 	thumbnail "thumbnail/hai centipede"
 	attributes
@@ -618,7 +623,8 @@ ship "Centipede"
 
 ship "Korath Chaser"
 	sprite "ship/chaser/chaser"
-		"frame time" 5
+		"frame rate" 3
+		"delay" 6
 		"random start frame"
 		rewind
 	thumbnail "thumbnail/chaser"
@@ -660,8 +666,9 @@ ship "Korath Chaser"
 
 ship "Clipper"
 	sprite "ship/clipper/clipper"
-		"frame time" 4
+		"frame rate" 5
 		"random start frame"
+		"delay" 10
 		rewind
 	thumbnail "thumbnail/clipper"
 	attributes
@@ -715,7 +722,8 @@ ship "Clipper"
 
 ship "Combat Drone"
 	sprite "ship/combat drone/combat drone"
-		"frame time" 6
+		"frame rate" 6
+		"delay" 3
 		"random start frame"
 		rewind
 	thumbnail "thumbnail/combat drone"
@@ -754,7 +762,7 @@ ship "Combat Drone"
 
 ship "Cruiser"
 	sprite "ship/cruiser/cruiser"
-		"frame time" 4.5
+		"frame rate" 4.5
 		"random start frame"
 	thumbnail "thumbnail/cruiser"
 	attributes
@@ -829,9 +837,10 @@ ship "Cruiser"
 ship "Gascraft"
 	plural "Gascraft"
 	sprite "ship/gascraft/gascraft"
-		"frame time" 4
+		"frame rate" 4
 		"random start frame"
 		rewind
+		"delay" delay 6
 	thumbnail "thumbnail/gascraft"
 	attributes
 		category Transport
@@ -876,8 +885,9 @@ ship "Gascraft"
 
 ship "Geocoris"
 	sprite "ship/hai geocoris/hai geocoris"
-		"frame time" 5.6
+		"frame rate" 8
 		"random start frame"
+		"delay" 16
 		rewind
 	thumbnail "thumbnail/hai geocoris"
 	attributes
@@ -936,7 +946,7 @@ ship "Geocoris"
 
 ship "Grasshopper"
 	sprite "ship/hai grasshopper/hai grasshopper"
-		"frame time" 4
+		"frame rate" 5
 		"random start frame"
 	thumbnail "thumbnail/hai grasshopper"
 	attributes
@@ -984,8 +994,9 @@ ship "Grasshopper"
 
 ship "Gull"
 	sprite "ship/gull/gull"
-		"frame time" 4
+		"frame rate" 4
 		"random start frame"
+		"delay" 8
 		rewind
 	thumbnail "thumbnail/gull"
 	attributes
@@ -1052,7 +1063,7 @@ ship "Gull"
 
 ship "Deep River"
 	sprite "ship/deep river/deep river"
-		"frame time" 3
+		"frame rate" 10
 		"random start frame"
 		rewind
 	thumbnail "thumbnail/deep river"
@@ -1108,8 +1119,9 @@ ship "Deep River"
 
 ship "Dreadnought"
 	sprite "ship/dreadnought/dreadnought"
-		"frame time" 5
+		"frame rate" 5
 		"random start frame"
+		"delay" 10
 	thumbnail "thumbnail/dreadnought"
 	attributes
 		category "Heavy Warship"
@@ -1175,7 +1187,7 @@ ship "Dreadnought"
 
 ship "Earth Shaper"
 	sprite "ship/earth shaper/earth shaper"
-		"frame time" 5.5
+		"frame rate" 4
 		"random start frame"
 		rewind
 	thumbnail "thumbnail/earth shaper"
@@ -1214,7 +1226,7 @@ ship "Earth Shaper"
 
 ship "Far Lek 14"
 	sprite "ship/far lek 14/far lek 14"
-		"frame time" 4
+		"frame rate" 6
 		"random start frame"
 		rewind
 	thumbnail "thumbnail/far lek 14"
@@ -1256,7 +1268,7 @@ ship "Far Lek 14"
 
 ship "Far Osk 27"
 	sprite "ship/far osk 27/far osk 27"
-		"frame time" 3.9
+		"frame rate" 6
 		"random start frame"
 		rewind
 	thumbnail "thumbnail/far osk 27"
@@ -1299,7 +1311,7 @@ ship "Far Osk 27"
 
 ship "Freighter"
 	sprite "ship/freighter/freighter"
-		"frame time" 4
+		"frame rate" 5
 		"random start frame"
 	thumbnail "thumbnail/freighter"
 	attributes
@@ -1352,7 +1364,8 @@ ship "Freighter"
 
 ship "Frigate"
 	sprite "ship/frigate/frigate"
-		"frame time" 5
+		"frame rate" 4
+		"delay" 8
 		"random start frame"
 	thumbnail "thumbnail/frigate"
 	attributes
@@ -1417,8 +1430,9 @@ ship "Frigate"
 
 ship "Gunboat"
 	sprite "ship/gunboat/gunboat"
-		"frame time" 4
+		"frame rate" 4
 		"random start frame"
+		"delay" 8
 		rewind
 	thumbnail "thumbnail/gunboat"
 	attributes
@@ -1474,8 +1488,9 @@ ship "Gunboat"
 
 ship "Kar Ik Vot 349"
 	sprite "ship/kar ik vot 349/kar ik vot 349"
-		"frame time" 5.2
+		"frame rate" 4
 		"random start frame"
+		"delay" 16
 		rewind
 	thumbnail "thumbnail/kar ik vot 349"
 	attributes
@@ -1543,8 +1558,9 @@ ship "Kar Ik Vot 349"
 
 ship "Leviathan"
 	sprite "ship/leviathan/leviathan"
-		"frame time" 5.5
+		"frame rate" 3
 		"random start frame"
+		"delay" 12
 	thumbnail "thumbnail/leviathan"
 	attributes
 		category "Heavy Warship"
@@ -1605,8 +1621,9 @@ ship "Leviathan"
 
 ship "Met Par Tek 53"
 	sprite "ship/met par tek 53/met par tek 53"
-		"frame time" 4.2
+		"frame rate" 4
 		"random start frame"
+		"delay" 8
 		rewind
 	thumbnail "thumbnail/met par tek 53"
 	attributes
@@ -1668,7 +1685,7 @@ ship "Met Par Tek 53"
 
 ship "Model 8"
 	sprite "ship/model 8/model 8"
-		"frame time" 4.7
+		"frame rate" 3.5
 		"random start frame"
 		rewind
 	thumbnail "thumbnail/model 8"
@@ -1718,8 +1735,9 @@ ship "Model 8"
 
 ship "Model 16"
 	sprite "ship/model 16/model 16"
-		"frame time" 4.7
+		"frame rate" 4
 		"random start frame"
+		"delay" 6
 		rewind
 	thumbnail "thumbnail/model 16"
 	attributes
@@ -1775,8 +1793,9 @@ ship "Model 16"
 
 ship "Model 32"
 	sprite "ship/model 32/model 32"
-		"frame time" 4.5
+		"frame rate" 3
 		"random start frame"
+		"delay" 6
 		rewind
 	thumbnail "thumbnail/model 32"
 	attributes
@@ -1833,8 +1852,9 @@ ship "Model 32"
 
 ship "Model 64"
 	sprite "ship/model 64/model 64"
-		"frame time" 4.4
+		"frame rate" 3
 		"random start frame"
+		"delay" 6
 		rewind
 	thumbnail "thumbnail/model 64"
 	attributes
@@ -1892,9 +1912,8 @@ ship "Model 64"
 
 ship "Model 128"
 	sprite "ship/model 128/model 128"
-		"frame time" 4.6
+		"frame rate" 5
 		"random start frame"
-		rewind
 	thumbnail "thumbnail/model 128"
 	attributes
 		category "Medium Warship"
@@ -1953,9 +1972,8 @@ ship "Model 128"
 
 ship "Model 256"
 	sprite "ship/model 256/model 256"
-		"frame time" 4.5
+		"frame rate" 6
 		"random start frame"
-		rewind
 	thumbnail "thumbnail/model 256"
 	attributes
 		category "Heavy Warship"
@@ -2015,9 +2033,8 @@ ship "Model 256"
 
 ship "Model 512"
 	sprite "ship/model 512/model 512"
-		"frame time" 5.2
+		"frame rate" 5
 		"random start frame"
-		rewind
 	thumbnail "thumbnail/model 512"
 	attributes
 		category "Heavy Warship"
@@ -2079,8 +2096,9 @@ ship "Model 512"
 
 ship "Pelican"
 	sprite "ship/pelican/pelican"
-		"frame time" 4.2
+		"frame rate" 4
 		"random start frame"
+		"delay" 8
 		rewind
 	thumbnail "thumbnail/pelican"
 	attributes
@@ -2146,8 +2164,9 @@ ship "Pelican"
 
 ship "Pug Enfolta"
 	sprite "ship/pug enfolta/pug enfolta"
-		"frame time" 3.7
+		"frame rate" 3
 		"random start frame"
+		"delay" 6
 		rewind
 	thumbnail "thumbnail/pug enfolta"
 	attributes
@@ -2204,8 +2223,9 @@ ship "Pug Enfolta"
 
 ship "Pug Maboro"
 	sprite "ship/pug maboro/pug maboro"
-		"frame time" 4.9
+		"frame rate" 4
 		"random start frame"
+		"delay" 8
 		rewind
 	thumbnail "thumbnail/pug maboro"
 	attributes
@@ -2264,7 +2284,8 @@ ship "Pug Maboro"
 
 ship "Pug Zibruka"
 	sprite "ship/pug zibruka/pug zibruka"
-		"frame time" 4.1
+		"frame rate" 4
+		"delay" 8
 		"random start frame"
 		rewind
 	thumbnail "thumbnail/pug zibruka"
@@ -2317,8 +2338,9 @@ ship "Pug Zibruka"
 
 ship "Rainmaker"
 	sprite "ship/rainmaker/rainmaker"
-		"frame time" 5.5
+		"frame rate" 4
 		"random start frame"
+		"delay" 12
 	thumbnail "thumbnail/rainmaker"
 	attributes
 		category "Light Warship"
@@ -2373,8 +2395,9 @@ ship "Rainmaker"
 
 ship "Sparrow"
 	sprite "ship/sparrow/sparrow"
-		"frame time" 6
+		"frame rate" 4
 		"random start frame"
+		"delay" 16
 	thumbnail "thumbnail/sparrow"
 	attributes
 		category "Interceptor"
@@ -2421,7 +2444,7 @@ ship "Sparrow"
 
 ship "Star Barge"
 	sprite "ship/star barge/star barge"
-		"frame time" 4
+		"frame rate" 5
 		"random start frame"
 	thumbnail "thumbnail/star barge"
 	attributes
@@ -2466,8 +2489,9 @@ ship "Star Barge"
 
 ship "Starling"
 	sprite "ship/starling/starling"
-		"frame time" 4
+		"frame rate" 5
 		"random start frame"
+		"delay" 10
 		rewind
 	thumbnail "thumbnail/starling"
 	attributes
@@ -2535,8 +2559,9 @@ ship "Starling"
 
 ship "Surveillance Drone"
 	sprite "ship/surveillance drone/surveillance drone"
-		"frame time" 6
+		"frame rate" 6
 		"random start frame"
+		"delay" 3
 		rewind
 	thumbnail "thumbnail/surveillance drone"
 	attributes
@@ -2571,8 +2596,9 @@ ship "Surveillance Drone"
 
 ship "Tek Far 71 - Lek"
 	sprite "ship/tek far 71 lek/tek far 71 lek"
-		"frame time" 4.6
+		"frame rate" 5
 		"random start frame"
+		"delay" 10
 		rewind
 	thumbnail "thumbnail/tek far 71 lek"
 	attributes
@@ -2644,8 +2670,9 @@ ship "Tek Far 71 - Lek"
 
 ship "Tek Far 78 - Osk"
 	sprite "ship/tek far 78 osk/tek far 78 osk"
-		"frame time" 4.7
+		"frame rate" 5
 		"random start frame"
+		"delay" 10
 		rewind
 	thumbnail "thumbnail/tek far 78 osk"
 	attributes
@@ -2718,8 +2745,9 @@ ship "Tek Far 78 - Osk"
 
 ship "Tek Far 109"
 	sprite "ship/tek far 109/tek far 109"
-		"frame time" 4.8
+		"frame rate" 5
 		"random start frame"
+		"delay" 15
 		rewind
 	thumbnail "thumbnail/tek far 109"
 	attributes
@@ -2793,7 +2821,7 @@ ship "Tek Far 109"
 
 ship "Korath World-Ship"
 	sprite "ship/world-ship a/world-ship a"
-		"frame time" 1.5
+		"frame rate" 4
 	thumbnail "thumbnail/world-ship"
 	attributes
 		category "Heavy Freighter"
@@ -2853,8 +2881,9 @@ ship "Korath World-Ship"
 
 ship "Aphid"
 	sprite "ship/hai aphid/hai aphid"
-		"frame time" 4.5
+		"frame rate" 5
 		"random start frame"
+		"delay" 15
 		rewind
 	thumbnail "thumbnail/hai aphid"
 	attributes
@@ -2899,7 +2928,7 @@ ship "Aphid"
 
 ship "Lightning Bug"
 	sprite "ship/hai lightning bug/hai lightning bug"
-		"frame time" 4
+		"frame rate" 4
 		"random start frame"
 	thumbnail "thumbnail/hai lightning bug"
 	attributes
@@ -2951,8 +2980,9 @@ ship "Lightning Bug"
 
 ship "Shield Beetle"
 	sprite "ship/hai shield beetle/hai shield beetle"
-		"frame time" 5
+		"frame rate" 4
 		"random start frame"
+		"delay" 4
 		rewind
 	thumbnail "thumbnail/hai shield beetle"
 	attributes
@@ -3019,8 +3049,9 @@ ship "Shield Beetle"
 
 ship "Solifuge"
 	sprite "ship/hai solifuge/hai solifuge"
-		"frame time" 4
+		"frame rate" 5
 		"random start frame"
+		"delay" 5
 	thumbnail "thumbnail/hai solifuge"
 	attributes
 		category "Heavy Warship"
@@ -3094,8 +3125,9 @@ ship "Solifuge"
 
 ship "Violin Spider"
 	sprite "ship/hai violin spider/hai violin spider"
-		"frame time" 4
+		"frame rate" 5
 		"random start frame"
+		"delay" 10
 	thumbnail "thumbnail/hai violin spider"
 	attributes
 		category "Fighter"
@@ -3138,8 +3170,9 @@ ship "Violin Spider"
 
 ship "Water Bug"
 	sprite "ship/hai water bug/hai water bug"
-		"frame time" 4
+		"frame rate" 5
 		"random start frame"
+		"delay" 10
 	thumbnail "thumbnail/hai water bug"
 	attributes
 		category "Heavy Freighter"
