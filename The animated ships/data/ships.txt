@@ -840,7 +840,7 @@ ship "Gascraft"
 		"frame rate" 7
 		"random start frame"
 		rewind
-		"delay" delay 14
+		"delay" 14
 	thumbnail "thumbnail/gascraft"
 	attributes
 		category Transport
