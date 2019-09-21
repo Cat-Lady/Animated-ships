@@ -1064,7 +1064,7 @@ ship "Gull"
 
 ship "Deep River"
 	sprite "ship/deep river/deep river"
-		"frame rate" 20
+		"frame rate" 19
 		"random start frame"
 	thumbnail "thumbnail/deep river"
 	attributes
