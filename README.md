@@ -1,4 +1,4 @@
-Version with less disruptive, slower animations. Non-living ships made looks less organic/making breath-like motions. Living ships made look even more organic/breathing-like motions ;)
+Version with less disruptive, slower animations. Non-living ships made looks less organic/making breath-like motions. Living ships made look even more organic/making breath-like motions ;)
 
 
 IMPORTANT: 
