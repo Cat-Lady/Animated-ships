@@ -10,11 +10,3 @@
 
 government "Kor Mereti"
 	swizzle 0
-	color .32 .36 .65
-	language "Korath"
-	
-	"attitude toward"
-		"Kor Sestor" -.01
-		"Wanderer" -.01
-	
-	"player reputation" -1000
