@@ -242,6 +242,8 @@ ship "Model 128"
 	sprite "ship/model 128/model 128"
 		"frame rate" 10
 		"random start frame"
+		"delay" 12
+		rewind
 
 
 
@@ -249,6 +251,8 @@ ship "Model 256"
 	sprite "ship/model 256/model 256"
 		"frame rate" 9
 		"random start frame"
+		"delay" 12
+		rewind
 
 
 
@@ -256,6 +260,8 @@ ship "Model 512"
 	sprite "ship/model 512/model 512"
 		"frame rate" 10
 		"random start frame"
+		"delay" 12
+		rewind
 
 
 
