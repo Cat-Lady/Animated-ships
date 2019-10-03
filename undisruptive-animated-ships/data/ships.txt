@@ -19,14 +19,6 @@ ship "Albatross"
 
 
 
-ship "Argosy"
-	sprite "ship/argosy/argosy"
-		"frame rate" 6
-		"delay" 9
-		"random start frame"
-
-
-
 ship "Arrow"
 	sprite "ship/arrow/arrow"
 		"frame rate" 10
@@ -52,14 +44,6 @@ ship "Barb"
 ship "Barb" "Barb (Proton)"
 	sprite "ship/barbp/barbp"
 		"frame rate" 10
-		"random start frame"
-
-
-
-ship "Bastion"
-	sprite "ship/bastion/bastion"
-		"frame rate" 7
-		"delay" 14
 		"random start frame"
 
 
@@ -94,15 +78,6 @@ ship "Korath Chaser"
 		"frame rate" 5
 		"delay" 10
 		"random start frame"
-		rewind
-
-
-
-ship "Clipper"
-	sprite "ship/clipper/clipper"
-		"frame rate" 6
-		"random start frame"
-		"delay" 12
 		rewind
 
 
@@ -162,14 +137,6 @@ ship "Deep River"
 
 
 
-ship "Dreadnought"
-	sprite "ship/dreadnought/dreadnought"
-		"frame rate" 7
-		"random start frame"
-		"delay" 14
-
-
-
 ship "Earth Shaper"
 	sprite "ship/earth shaper/earth shaper"
 		"frame rate" 5
@@ -224,14 +191,6 @@ ship "Kar Ik Vot 349"
 		"random start frame"
 		"delay" 32
 		rewind
-
-
-
-ship "Leviathan"
-	sprite "ship/leviathan/leviathan"
-		"frame rate" 4
-		"random start frame"
-		"delay" 16
 
 
 

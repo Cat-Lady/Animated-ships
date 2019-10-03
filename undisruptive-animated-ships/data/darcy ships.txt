@@ -23,6 +23,7 @@ ship "Model 1024"
 	sprite ship/model_1024/model_1024
 		"frame rate" 12
 		"random start frame"
+		rewind
 
 
 
