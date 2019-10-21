@@ -12,9 +12,9 @@
 
 ship Flivver "Flivver (Racing)"
 	sprite ship/scutter/scutter
-		"frame rate" 7
+		"frame rate" 8
 		"random start frame"
-		"delay" 21
+		"delay" 24
 		rewind
 
 
@@ -29,16 +29,16 @@ ship "Model 1024"
 
 ship "Korath Stalker"
 	sprite ship/stalker/stalker
-		"frame rate" 5
+		"frame rate" 8
 		"random start frame"
-		"delay" 10
+		"delay" 16
 		rewind
 
 
 
 ship Scud
 	sprite ship/scud/scud
-		"frame rate" 5
+		"frame rate" 8
 		"random start frame"
-		"delay" 15
+		"delay" 24
 		rewind

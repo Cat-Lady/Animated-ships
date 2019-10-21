@@ -12,8 +12,8 @@
 
 ship "Albatross"
 	sprite "ship/albatross/albatross"
-		"frame rate" 6
-		"delay" 18
+		"frame rate" 7
+		"delay" 21
 		"random start frame"
 		rewind
 
@@ -28,7 +28,7 @@ ship "Arrow"
 
 ship "Bactrian"
 	sprite "ship/bactrian/bactrian"
-		"frame rate" 7
+		"frame rate" 9
 		"random start frame"
 		rewind
 
@@ -50,8 +50,8 @@ ship "Barb" "Barb (Proton)"
 
 ship "Bounder"
 	sprite "ship/bounder/bounder"
-		"frame rate" 5
-		"delay" 15
+		"frame rate" 8
+		"delay" 20
 		"random start frame"
 		rewind
 
@@ -59,7 +59,7 @@ ship "Bounder"
 
 ship "Carrier"
 	sprite "ship/carrier/carrier"
-		"frame rate" 8
+		"frame rate" 9
 		"random start frame"
 
 
@@ -75,8 +75,8 @@ ship "Centipede"
 
 ship "Korath Chaser"
 	sprite "ship/chaser/chaser"
-		"frame rate" 5
-		"delay" 10
+		"frame rate" 8
+		"delay" 15
 		"random start frame"
 		rewind
 
@@ -84,8 +84,8 @@ ship "Korath Chaser"
 
 ship "Combat Drone"
 	sprite "ship/combat drone/combat drone"
-		"frame rate" 6
-		"delay" 4
+		"frame rate" 9
+		"delay" 6
 		"random start frame"
 		rewind
 
@@ -123,9 +123,9 @@ ship "Grasshopper"
 
 ship "Gull"
 	sprite "ship/gull/gull"
-		"frame rate" 6
+		"frame rate" 7
 		"random start frame"
-		"delay" 18
+		"delay" 21
 		rewind
 
 
@@ -139,7 +139,7 @@ ship "Deep River"
 
 ship "Earth Shaper"
 	sprite "ship/earth shaper/earth shaper"
-		"frame rate" 5
+		"frame rate" 7
 		"random start frame"
 		rewind
 
@@ -147,7 +147,7 @@ ship "Earth Shaper"
 
 ship "Far Lek 14"
 	sprite "ship/far lek 14/far lek 14"
-		"frame rate" 6
+		"frame rate" 8
 		"random start frame"
 		rewind
 
@@ -155,7 +155,7 @@ ship "Far Lek 14"
 
 ship "Far Osk 27"
 	sprite "ship/far osk 27/far osk 27"
-		"frame rate" 6
+		"frame rate" 8
 		"random start frame"
 		rewind
 
@@ -163,24 +163,24 @@ ship "Far Osk 27"
 
 ship "Freighter"
 	sprite "ship/freighter/freighter"
-		"frame rate" 8
+		"frame rate" 10
 		"random start frame"
 
 
 
 ship "Frigate"
 	sprite "ship/frigate/frigate"
-		"frame rate" 6
-		"delay" 12
+		"frame rate" 8
+		"delay" 16
 		"random start frame"
 
 
 
 ship "Gunboat"
 	sprite "ship/gunboat/gunboat"
-		"frame rate" 6
+		"frame rate" 8
 		"random start frame"
-		"delay" 12
+		"delay" 16
 		rewind
 
 
@@ -196,16 +196,16 @@ ship "Kar Ik Vot 349"
 
 ship "Met Par Tek 53"
 	sprite "ship/met par tek 53/met par tek 53"
-		"frame rate" 6
+		"frame rate" 7
 		"random start frame"
-		"delay" 12
+		"delay" 14
 		rewind
 
 
 
 ship "Model 8"
 	sprite "ship/model 8/model 8"
-		"frame rate" 5
+		"frame rate" 7
 		"random start frame"
 		rewind
 
@@ -213,27 +213,27 @@ ship "Model 8"
 
 ship "Model 16"
 	sprite "ship/model 16/model 16"
-		"frame rate" 6
+		"frame rate" 9
 		"random start frame"
-		"delay" 9
+		"delay" 14
 		rewind
 
 
 
 ship "Model 32"
 	sprite "ship/model 32/model 32"
-		"frame rate" 6
+		"frame rate" 10
 		"random start frame"
-		"delay" 12
+		"delay" 15
 		rewind
 
 
 
 ship "Model 64"
 	sprite "ship/model 64/model 64"
-		"frame rate" 6
+		"frame rate" 10
 		"random start frame"
-		"delay" 12
+		"delay" 20
 		rewind
 
 
@@ -242,7 +242,7 @@ ship "Model 128"
 	sprite "ship/model 128/model 128"
 		"frame rate" 10
 		"random start frame"
-		"delay" 12
+		"delay" 20
 		rewind
 
 
@@ -251,7 +251,7 @@ ship "Model 256"
 	sprite "ship/model 256/model 256"
 		"frame rate" 9
 		"random start frame"
-		"delay" 12
+		"delay" 20
 		rewind
 
 
@@ -260,99 +260,22 @@ ship "Model 512"
 	sprite "ship/model 512/model 512"
 		"frame rate" 10
 		"random start frame"
-		"delay" 12
+		"delay" 20
 		rewind
 
 
 
 ship "Pelican"
 	sprite "ship/pelican/pelican"
-		"frame rate" 6
+		"frame rate" 7
 		"random start frame"
-		"delay" 18
+		"delay" 21
 		rewind
 
 
 
 ship "Pug Enfolta"
 	sprite "ship/pug enfolta/pug enfolta"
-		"frame rate" 6
-		"random start frame"
-		"delay" 12
-		rewind
-
-
-
-ship "Pug Maboro"
-	sprite "ship/pug maboro/pug maboro"
-		"frame rate" 7
-		"random start frame"
-		"delay" 14
-		rewind
-
-
-
-ship "Pug Zibruka"
-	sprite "ship/pug zibruka/pug zibruka"
-		"frame rate" 6
-		"delay" 12
-		"random start frame"
-		rewind
-
-
-
-ship "Rainmaker"
-	sprite "ship/rainmaker/rainmaker"
-		"frame rate" 6
-		"random start frame"
-		"delay" 18
-
-
-
-ship "Sparrow"
-	sprite "ship/sparrow/sparrow"
-		"frame rate" 6
-		"random start frame"
-		"delay" 24
-
-
-
-ship "Star Barge"
-	sprite "ship/star barge/star barge"
-		"frame rate" 8
-		"random start frame"
-
-
-
-ship "Starling"
-	sprite "ship/starling/starling"
-		"frame rate" 6
-		"random start frame"
-		"delay" 12
-		rewind
-
-
-
-ship "Surveillance Drone"
-	sprite "ship/surveillance drone/surveillance drone"
-		"frame rate" 6
-		"random start frame"
-		"delay" 3
-		rewind
-
-
-
-ship "Tek Far 71 - Lek"
-	sprite "ship/tek far 71 lek/tek far 71 lek"
-		"frame rate" 7
-		"random start frame"
-		"delay" 14
-		rewind
-
-
-
-ship "Tek Far 78 - Osk"
-	sprite "ship/tek far 78 osk/tek far 78 osk"
 		"frame rate" 8
 		"random start frame"
 		"delay" 16
@@ -360,65 +283,142 @@ ship "Tek Far 78 - Osk"
 
 
 
-ship "Tek Far 109"
-	sprite "ship/tek far 109/tek far 109"
+ship "Pug Maboro"
+	sprite "ship/pug maboro/pug maboro"
+		"frame rate" 9
+		"random start frame"
+		"delay" 18
+		rewind
+
+
+
+ship "Pug Zibruka"
+	sprite "ship/pug zibruka/pug zibruka"
+		"frame rate" 9
+		"delay" 18
+		"random start frame"
+		rewind
+
+
+
+ship "Rainmaker"
+	sprite "ship/rainmaker/rainmaker"
 		"frame rate" 8
 		"random start frame"
-		"delay" 21
+		"delay" 24
+
+
+
+ship "Sparrow"
+	sprite "ship/sparrow/sparrow"
+		"frame rate" 8
+		"random start frame"
+		"delay" 32
+
+
+
+ship "Star Barge"
+	sprite "ship/star barge/star barge"
+		"frame rate" 9
+		"random start frame"
+
+
+
+ship "Starling"
+	sprite "ship/starling/starling"
+		"frame rate" 8
+		"random start frame"
+		"delay" 16
+		rewind
+
+
+
+ship "Surveillance Drone"
+	sprite "ship/surveillance drone/surveillance drone"
+		"frame rate" 8
+		"random start frame"
+		"delay" 4
+		rewind
+
+
+
+ship "Tek Far 71 - Lek"
+	sprite "ship/tek far 71 lek/tek far 71 lek"
+		"frame rate" 8
+		"random start frame"
+		"delay" 16
+		rewind
+
+
+
+ship "Tek Far 78 - Osk"
+	sprite "ship/tek far 78 osk/tek far 78 osk"
+		"frame rate" 9
+		"random start frame"
+		"delay" 18
+		rewind
+
+
+
+ship "Tek Far 109"
+	sprite "ship/tek far 109/tek far 109"
+		"frame rate" 9
+		"random start frame"
+		"delay" 22
 		rewind
 
 
 
 ship "Korath World-Ship"
 	sprite "ship/world-ship a/world-ship a"
-		"frame rate" 8
+		"frame rate" 9
 
 
 
 ship "Aphid"
 	sprite "ship/hai aphid/hai aphid"
-		"frame rate" 7
+		"frame rate" 8
 		"random start frame"
-		"delay" 21
+		"delay" 24
 		rewind
 
 
 
 ship "Lightning Bug"
 	sprite "ship/hai lightning bug/hai lightning bug"
-		"frame rate" 7
+		"frame rate" 8
 		"random start frame"
-		"delay" 14
+		"delay" 16
 
 
 
 ship "Shield Beetle"
 	sprite "ship/hai shield beetle/hai shield beetle"
-		"frame rate" 7
+		"frame rate" 8
 		"random start frame"
-		"delay" 7
+		"delay" 8
 		rewind
 
 
 
 ship "Solifuge"
 	sprite "ship/hai solifuge/hai solifuge"
-		"frame rate" 7
+		"frame rate" 8
 		"random start frame"
-		"delay" 14
+		"delay" 16
 
 
 
 ship "Violin Spider"
 	sprite "ship/hai violin spider/hai violin spider"
-		"frame rate" 7
+		"frame rate" 8
 		"random start frame"
-		"delay" 14
+		"delay" 16
 
 
 
 ship "Water Bug"
 	sprite "ship/hai water bug/hai water bug"
-		"frame rate" 7
+		"frame rate" 8
 		"random start frame"
-		"delay" 14
+		"delay" 16
