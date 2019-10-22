@@ -32,7 +32,7 @@ It **won't** work if the directory structure will be anything like:
 
 
 #### Warning:
-This plugin doesn't work with ships purchased before the plugin installation, unless save game is edited (one-time fix) so that ships declared in save are fixed for having its "sprite" section matching the one in the plugin (see plugin's ```/data/ships.txt```).
+This plugin doesn't work with ships purchased before the plugin installation, unless save game is edited (one-time fix) so that ships declared in save file are modified to have "sprite" section matching one in the plugin (see plugin's ```/data/ships.txt``` for syntax).
 
 
 ## Author
