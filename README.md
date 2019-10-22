@@ -13,17 +13,27 @@ This is version with less disruptive, slower animations. Non-living ships made l
 
 
 
-### Installing
+## Installing
 
 Check:
 https://github.com/Cat-Lady/undisruptive-animated-ships/releases
+
 ...for latest, pre-packaged version.
 
-Unpack to your ES plugins folder. Be sure that you have single ``undisruptive-animated-ships`` directory inside your plugin folder, containing ``data`` and ``images`` directories - it **won't** work if the directory structure will be anything like:
-```(...)/plugins/undisruptive-animated-ships/undisruptive-animated-ships/(...)```
 
-Warning:
+**1.** Unpack ``undisruptive-animated-ships`` to your ES plugins folder. Be sure that you have single ``undisruptive-animated-ships`` directory inside your plugins folder, containing ``data`` and ``images`` directories. Directory structure should look like:
+
+```(...)/plugins/boarding-enhancements/(.../data/, /images/ and other stuff)```
+
+
+It **won't** work if the directory structure will be anything like:
+
+```(...)/plugins/Boarding-Enhancements/boarding-enhancements/(...)```
+
+
+####Warning:
 This plugin doesn't work with ships purchased before the plugin installation, unless save game is edited (one-time fix) so that ships declared in save are fixed for having its "sprite" section matching the one in the plugin (see plugin's ```/data/ships.txt```).
+
 
 ## Author
 
