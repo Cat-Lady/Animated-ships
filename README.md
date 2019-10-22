@@ -9,7 +9,7 @@ This is version with less disruptive, slower animations. Non-living ships made l
 ## Features
 - Every ship has been separately and carefully tweaked for best looking effect in-game.
 
-- New ship sprites from Endless Sky 0.9.10+ are no longer replaced by animated version of old ones.
+- Unlike upstream, new ship sprites from Endless Sky 0.9.10+ are no longer replaced by animated version of old ones.
 
 
 
