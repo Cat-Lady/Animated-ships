@@ -52,6 +52,7 @@ This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.m
 ## Acknowledgments
 
 "Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game
+
 BeccaBunny; For making awesome base of this plugin in form of rendered animation frames.
 
 ![Deep River Image](/../images/deep%20river.gif?raw=true "Deep River Image")
