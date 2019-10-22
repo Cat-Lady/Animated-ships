@@ -319,7 +319,7 @@ ship "Sparrow"
 
 ship "Star Barge"
 	sprite "ship/star barge/star barge"
-		"frame rate" 9
+		"frame rate" 11
 		"random start frame"
 
 
