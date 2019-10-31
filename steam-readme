@@ -1,0 +1,55 @@
+This is version with less disruptive, slower animations. Non-living ships made looks less organic/making breath-like motions. Living ships made look even more organic/making breath-like motions ;)
+
+For always up-to-date description and instructions, (formatted in easier to follow way than steam forum allows) see:
+https://github.com/Cat-Lady/undisruptive-animated-ships
+
+
+
+[h1]Features[/h1]
+
+[list][*]Every ship has been separately and carefully tweaked for best looking effect in-game.
+
+[*]Unlike upstream, new ship sprites from Endless Sky 0.9.10+ are no longer replaced by animated version of old ones.[/list]
+
+
+
+[h1]Installing[/h1]
+
+Check:
+https://github.com/Cat-Lady/undisruptive-animated-ships/releases
+
+...for latest, pre-packaged version.
+
+
+[b]1.[/b] Unpack [i]undisruptive-animated-ship[/i] to your ES plugins folder. Be sure that you have single [i]bundisruptive-animated-ship[/i] directory inside your plugins folder, containing [i]data[/i] and [i]images[/i] folders. Directory structure should look like:
+
+[code](...)/undisruptive-animated-ship/(.../data/, /images/ and other stuff)[/code]
+
+It [b]won't[/b] work if the directory structure will be anything like:
+
+[code](...)/plugins/undisruptive-animated-ship/undisruptive-animated-ship/(...)[/code]
+
+[b]Warning:[/b]
+This plugin doesn't work with ships purchased before the plugin installation, unless save game is edited (one-time fix) so that ships declared in save file are modified to have "sprite" section matching one in the plugin (see plugin's [i]/data/ships.txt[/i] for syntax).
+
+
+
+[h1]Author[/h1]
+
+[list][*][b]Cat Lady[/b][/list]
+
+[i]Initial work[/i] - [url=https://github.com/beccabunny/Animated-ships]BeccaBunny[/url]
+
+
+
+[h1]License[/h1]
+
+This project is licensed under the GPL3 License - see the LICENSE.md file for details.
+
+
+
+[h1]Acknowledgments[/h1]
+
+"Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game
+
+BeccaBunny; For making awesome base of this plugin in form of rendered animation frames.
