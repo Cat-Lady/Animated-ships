@@ -1,6 +1,6 @@
 # Undisruptive Animated Ships
 
-This is version with less disruptive, slower animations. Non-living ships made looks less organic/making breath-like motions. Living ships made look even more organic/making breath-like motions ;)
+This is version with less disruptive, slower animations. Non-living ships made looking less organic/making breath-like motions. Living ships made look even more organic/making breath-like motions ;)
 
 ![Star Barge Image](/../images/star%20barge.gif?raw=true "Star Barge Image")
 
