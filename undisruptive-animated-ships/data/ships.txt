@@ -48,15 +48,6 @@ ship "Barb" "Barb (Proton)"
 
 
 
-ship "Bounder"
-	sprite "ship/bounder/bounder"
-		"frame rate" 8
-		"delay" 20
-		"random start frame"
-		rewind
-
-
-
 ship "Carrier"
 	sprite "ship/carrier/carrier"
 		"frame rate" 9
