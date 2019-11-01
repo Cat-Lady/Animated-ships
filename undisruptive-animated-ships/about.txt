@@ -1,3 +1,0 @@
-This plugin aims to add undisruptive Animated Ships(TM). Fresh from the Syndicate's plants!
-
-Forked from Becca's awesome Animated Ships plugin (that were, nevertheless, animating way too fast for my tastes).
