@@ -28,8 +28,9 @@ ship "Arrow"
 
 ship "Bactrian"
 	sprite "ship/bactrian/bactrian"
-		"frame rate" 9
+		"frame rate" 10
 		"random start frame"
+		delay 20
 		rewind
 
 
@@ -50,7 +51,7 @@ ship "Barb" "Barb (Proton)"
 
 ship "Carrier"
 	sprite "ship/carrier/carrier"
-		"frame rate" 9
+		"frame rate" 10
 		"random start frame"
 
 
@@ -204,9 +205,9 @@ ship "Model 8"
 
 ship "Model 16"
 	sprite "ship/model 16/model 16"
-		"frame rate" 9
+		"frame rate" 10
 		"random start frame"
-		"delay" 14
+		"delay" 20
 		rewind
 
 
@@ -240,7 +241,7 @@ ship "Model 128"
 
 ship "Model 256"
 	sprite "ship/model 256/model 256"
-		"frame rate" 9
+		"frame rate" 10
 		"random start frame"
 		"delay" 20
 		rewind
@@ -276,17 +277,17 @@ ship "Pug Enfolta"
 
 ship "Pug Maboro"
 	sprite "ship/pug maboro/pug maboro"
-		"frame rate" 9
+		"frame rate" 10
 		"random start frame"
-		"delay" 18
+		"delay" 20
 		rewind
 
 
 
 ship "Pug Zibruka"
 	sprite "ship/pug zibruka/pug zibruka"
-		"frame rate" 9
-		"delay" 18
+		"frame rate" 10
+		"delay" 20
 		"random start frame"
 		rewind
 
@@ -344,25 +345,25 @@ ship "Tek Far 71 - Lek"
 
 ship "Tek Far 78 - Osk"
 	sprite "ship/tek far 78 osk/tek far 78 osk"
-		"frame rate" 9
+		"frame rate" 10
 		"random start frame"
-		"delay" 18
+		"delay" 20
 		rewind
 
 
 
 ship "Tek Far 109"
 	sprite "ship/tek far 109/tek far 109"
-		"frame rate" 9
+		"frame rate" 10
 		"random start frame"
-		"delay" 22
+		"delay" 24
 		rewind
 
 
 
 ship "Korath World-Ship"
 	sprite "ship/world-ship a/world-ship a"
-		"frame rate" 9
+		"frame rate" 10
 
 
 
