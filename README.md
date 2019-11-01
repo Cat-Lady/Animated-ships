@@ -1,8 +1,8 @@
 # Undisruptive Animated Ships
 
-This is version with less disruptive, slower animations. Non-living ships made looks less organic/making breath-like motions. Living ships made look even more organic/making breath-like motions ;)
+This is version with less disruptive, slower animations. Non-living ships made looking less organic/making breath-like motions. Living ships made look even more organic/making breath-like motions ;)
 
-
+![Star Barge Image](/../images/star%20barge.gif?raw=true "Star Barge Image")
 
 
 
@@ -11,6 +11,11 @@ This is version with less disruptive, slower animations. Non-living ships made l
 
 - Unlike upstream, new ship sprites from Endless Sky 0.9.10+ are no longer replaced by animated version of old ones.
 
+- All ships have a matching high-DPI version, generated from the source material via on-GPU upscale through neural network, trained specifically on "Endless Sky" ship sprites.
+
+- Most animations were tweaked by hand, to get rid of minor glitches (like objects clipping through objects).
+
+![Cruiser Image](/../images/cruiser.gif?raw=true "Cruiser Image")
 
 
 ## Installing
@@ -34,6 +39,8 @@ It **won't** work if the directory structure will be anything like:
 #### Warning:
 This plugin doesn't work with ships purchased before the plugin installation, unless save game is edited (one-time fix) so that ships declared in save file are modified to have "sprite" section matching one in the plugin (see plugin's ```/data/ships.txt``` for syntax).
 
+![Freighter Image](/../images/freighter.gif?raw=true "Freighter Image")
+
 
 ## Author
 
@@ -49,4 +56,8 @@ This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.m
 ## Acknowledgments
 
 "Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game
+
 BeccaBunny; For making awesome base of this plugin in form of rendered animation frames.
+
+![Deep River Image](/../images/deep%20river.gif?raw=true "Deep River Image")
+
