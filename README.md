@@ -11,6 +11,10 @@ This is version with less disruptive, slower animations. Non-living ships made l
 
 - Unlike upstream, new ship sprites from Endless Sky 0.9.10+ are no longer replaced by animated version of old ones.
 
+- All ships have a matching high-DPI version, generated from the source material via on-GPU upscale through neural network, trained specifically on "Endless Sky" ship sprites.
+
+- Most animations were tweaked by hand, to get rid of minor glitches (like objects clipping through objects).
+
 ![Cruiser Image](/../images/cruiser.gif?raw=true "Cruiser Image")
 
 
