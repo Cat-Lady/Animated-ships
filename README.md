@@ -1,3 +1,5 @@
+#### This plugin is a part of upcoming "Endless Sky: Captain's Edition" reboot of the base game. Stay tuned - meanwhile, installing the plugins can help to preview the experience, together or in parts.
+
 # Undisruptive Animated Ships
 
 This is version with less disruptive, slower animations. Non-living ships made looking less organic/making breath-like motions. Living ships made look even more organic/making breath-like motions ;)
